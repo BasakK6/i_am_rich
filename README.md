@@ -1,16 +1,31 @@
 # i_am_rich
 
-A new Flutter project.
+This project was created with the instructions from 
+[The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/) (lesson 3)
+on [Udemy](https://www.udemy.com).
 
-## Getting Started
+Main topics of this lesson:
+- How to create a new project from scratch
+- main and runApp functions
+- Material Design and MaterialApp widget
+- Scaffold widget and its properties & AppBar
+- Widget tree
+- Text, Center widgets
+- Working with Assets in Flutter
+- The pubspec.yaml file
+- How to add app icons to the iOS and Android apps
+- Dart code formatting
 
-This project is a starting point for a Flutter application.
+## Pictures Of The Created App
 
-A few resources to get you started if this is your first Flutter project:
+### Android
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/BasakK6/i_am_rich/blob/master/readme_assets/android_app_ss.png?raw=true" alt="android app ss" width="200" height="400"/>
+<img src="https://github.com/BasakK6/i_am_rich/blob/master/readme_assets/android_opened_apps_ss.png?raw=true" alt="android opened apps ss" width="200" height="400"/>
+<img src="https://github.com/BasakK6/i_am_rich/blob/master/readme_assets/android_app_icon.png?raw=true" alt="android app icon ss" width="200" height="400"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### iOS:
+<img src="https://github.com/BasakK6/i_am_rich/blob/master/readme_assets/ios_app_ss.png?raw=true" alt="ios app ss" width="200" height="400"/>
+<img src="https://github.com/BasakK6/i_am_rich/blob/master/readme_assets/ios_opened_apps_ss.png?raw=true" alt="ios opened apps ss" width="200" height="400"/>
+<img src="https://github.com/BasakK6/i_am_rich/blob/master/readme_assets/ios_app_icon_ss.png?raw=true" alt="ios app icon" width="200" height="400"/>
+
